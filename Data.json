@@ -1,0 +1,46 @@
+{
+	"empresaEntregaPedidos": {
+		"nombre": "Entregas Express",
+		"direccion": "789 Avenida de Entregas, Ciudad",
+		"telefono": "+9876543210",
+		"logo": "url_del_logo.png"
+	},
+	"sucursales": [
+		{
+			"nombreSucursal": "Sucursal A",
+			"direccionSucursal": "123 Calle Sucursal A, Ciudad",
+			"clientes": [
+				{
+					"nombreCliente": "Cliente X",
+					"direccion": "123 Calle Principal, Ciudad",
+					"telefono": "+1234567890",
+					"numeroEncomiendasEntregadas": 15
+				},
+				{
+					"nombreCliente": "Cliente Y",
+					"direccion": "456 Calle de Envíos, Ciudad",
+					"telefono": "+987654321",
+					"numeroEncomiendasEntregadas": 20
+				}
+			]
+		},
+		{
+			"nombreSucursal": "Sucursal B",
+			"direccionSucursal": "456 Calle Sucursal B, Ciudad",
+			"clientes": [
+				{
+					"nombreCliente": "Cliente Z",
+					"direccion": "789 Calle Principal, Ciudad",
+					"telefono": "+1234567890",
+					"numeroEncomiendasEntregadas": 30
+				},
+				{
+					"nombreCliente": "Cliente W",
+					"direccion": "987 Calle de Envíos, Ciudad",
+					"telefono": "+987654321",
+					"numeroEncomiendasEntregadas": 25
+				}
+			]
+		}
+	]
+}

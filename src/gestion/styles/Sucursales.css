@@ -1,0 +1,18 @@
+.sucursal {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    align-items: center;
+}
+
+
+.client {
+    display: flex;
+    flex-direction: column;
+}
+
+
+.list-details {
+    list-style: none;
+    text-align: start;
+}
